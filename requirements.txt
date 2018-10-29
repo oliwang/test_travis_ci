@@ -1,3 +1,4 @@
 goose3
 langid
 newspaper3k
+pytest
