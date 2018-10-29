@@ -3,7 +3,7 @@ import pytest
 import sys
 sys.path.append('..')
 
-from content_extract.content_extract import *
+from mypkg.content_extract import *
 
 
 def test_url():
