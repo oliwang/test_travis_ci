@@ -1,9 +1,10 @@
 import pytest
 
 import sys
-sys.path.append('..')
+sys.path.append('../src/mypkg')
 
-from mypkg.content_extract import *
+# from mypkg.content_extract import *
+from content_extract import *
 
 
 def test_url():
