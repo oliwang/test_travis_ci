@@ -1,4 +1,3 @@
 goose3
 langid
-time
 newspaper3k
