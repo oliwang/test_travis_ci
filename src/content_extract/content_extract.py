@@ -6,6 +6,7 @@ import time
 
 from newspaper import Article
 
+g = Goose({'stopwords_class': StopWordsChinese})
 
 def split_article2list(text, language, title):
     max_input = 1000
