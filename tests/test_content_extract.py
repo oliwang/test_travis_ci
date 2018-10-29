@@ -3,8 +3,8 @@ import pytest
 import sys
 sys.path.append('../src/mypkg')
 
-# from mypkg.content_extract import *
-from Content_Extract import *
+from mypkg.content_extract import *
+# from Content_Extract import *
 
 
 def test_url():
